@@ -1,0 +1,1 @@
+alias prisma=./node_modules/.bin/prisma

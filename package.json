@@ -2,5 +2,8 @@
   "name": "WebsiteTheSSEquel",
   "lockfileVersion": 3,
   "requires": true,
-  "packages": {}
+  "packages": {},
+  "devDependencies": {
+    "prisma": "^5.19.1"
+  }
 }
